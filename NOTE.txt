@@ -1,1 +1,6 @@
 Video Link => https://www.youtube.com/watch?v=Qn08jgrsRY4&list=PLbGui_ZYuhihMb5pqut64GhW-WhxKpygY&index=4
+
+1. Download Docker Desktop => https://www.docker.com/products/docker-desktop/
+2. Registry for docker to get images => https://hub.docker.com/
+
+Resume from 7:45
